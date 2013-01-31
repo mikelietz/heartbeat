@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Heartbeat</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<url>http://github.com/mikelietz/heartbeat/</url>
+	<author url="http://mikelietz.org/">Mike Lietz</author>
+	<version>1.0</version>
+	<description><![CDATA[Provides a URL to run Habari (crons) without rendering the theme.]]></description>
+	<copyright>2013</copyright>
+	<guid>260FAF55-0C56-40FD-A671-5F87185F9EF5</guid>
+</pluggable>
+
