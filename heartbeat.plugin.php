@@ -3,7 +3,7 @@
 class Heartbeat extends Plugin
 {
 	public function action_init() {
-		$this->add_rule( "heartbeat", 'heartbeat' );
+		$this->add_rule( '"heartbeat"', 'heartbeat' );
 	}
 
 	public function action_plugin_act_heartbeat() {
